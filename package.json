@@ -1,0 +1,24 @@
+{
+  "name": "tslbw-2026-2027",
+  "version": "27.0.1",
+  "description": "🇻🇳 **TSLBW 2026-2027** — Bot bản 0.1 tự động chào mừng thành viên mới và gửi lời tạm biệt thành viên rời Server Tristan. 🤝",
+  "homepage": "https://github.com/TSLGIT26/TSLBW-2026-2027#readme",
+  "bugs": {
+    "url": "https://github.com/TSLGIT26/TSLBW-2026-2027/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TSLGIT26/TSLBW-2026-2027.git"
+  },
+  "license": "ISC",
+  "author": "TSLBW",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.4.2"
+  }
+}
